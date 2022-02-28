@@ -20,7 +20,6 @@ public class GitSample {
 	
 	private void git4() {
 		System.out.println("test4");
-
 	}
 	
 	
