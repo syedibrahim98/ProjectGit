@@ -18,6 +18,11 @@ public class GitSample {
 
 	}
 	
+	private void git4() {
+		System.out.println("test4");
+
+	}
+	
 	
 	public static void main(String[] args) {
 		
